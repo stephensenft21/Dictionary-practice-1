@@ -18,7 +18,16 @@ wordsAndDefinitions.Add("Great", "of an extent, amount, or intensity considerabl
 wordsAndDefinitions.Add("Happy", "feeling or showing pleasure or contentment.");
 wordsAndDefinitions.Add("Sad", "feeling or showing sorrow; unhappy. I was sad and subdued");
 wordsAndDefinitions.Add("Content", "of an extent, amount, or intensity considerably above the normal or average the article was of great interest");
+
+
+Console.WriteLine($"1. The Definition of Awesome is:{wordsAndDefinitions["Awesome"]}");
+Console.WriteLine($"2. The Definition of Great is:{wordsAndDefinitions["Great"]}");
+Console.WriteLine($"3. The Definition of Happy is:{wordsAndDefinitions["Happy"]}");
+Console.WriteLine($"4. The Definition of Sad is:{wordsAndDefinitions["Sad"]}");
+Console.WriteLine($"5. The Definition of Content is:{wordsAndDefinitions["Content"]}");
+
 /*
+
     Use square brackets to get the definition of two of the
     words and then output them to the console
 */
@@ -31,6 +40,9 @@ wordsAndDefinitions.Add("Content", "of an extent, amount, or intensity considera
 */
 foreach (KeyValuePair<string, string> word in wordsAndDefinitions)
 {
+        Console.WriteLine($" {word.Key} is {word.Value}");
+
+
 }
         }
     }
