@@ -1,0 +1,11 @@
+C:\Users\NSS31\workspaceC-35\DictionaryPractice\DictionaryPractice\bin\Debug\netcoreapp3.0\DictionaryPractice.exe
+C:\Users\NSS31\workspaceC-35\DictionaryPractice\DictionaryPractice\bin\Debug\netcoreapp3.0\DictionaryPractice.deps.json
+C:\Users\NSS31\workspaceC-35\DictionaryPractice\DictionaryPractice\bin\Debug\netcoreapp3.0\DictionaryPractice.runtimeconfig.json
+C:\Users\NSS31\workspaceC-35\DictionaryPractice\DictionaryPractice\bin\Debug\netcoreapp3.0\DictionaryPractice.runtimeconfig.dev.json
+C:\Users\NSS31\workspaceC-35\DictionaryPractice\DictionaryPractice\bin\Debug\netcoreapp3.0\DictionaryPractice.dll
+C:\Users\NSS31\workspaceC-35\DictionaryPractice\DictionaryPractice\bin\Debug\netcoreapp3.0\DictionaryPractice.pdb
+C:\Users\NSS31\workspaceC-35\DictionaryPractice\DictionaryPractice\obj\Debug\netcoreapp3.0\DictionaryPractice.csprojAssemblyReference.cache
+C:\Users\NSS31\workspaceC-35\DictionaryPractice\DictionaryPractice\obj\Debug\netcoreapp3.0\DictionaryPractice.AssemblyInfoInputs.cache
+C:\Users\NSS31\workspaceC-35\DictionaryPractice\DictionaryPractice\obj\Debug\netcoreapp3.0\DictionaryPractice.AssemblyInfo.cs
+C:\Users\NSS31\workspaceC-35\DictionaryPractice\DictionaryPractice\obj\Debug\netcoreapp3.0\DictionaryPractice.dll
+C:\Users\NSS31\workspaceC-35\DictionaryPractice\DictionaryPractice\obj\Debug\netcoreapp3.0\DictionaryPractice.pdb
